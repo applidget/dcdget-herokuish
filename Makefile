@@ -1,4 +1,4 @@
-REPO_NAME:=robinmonjo #TODO: change to applidget when docker hub account opened
+REPO_NAME:=robinmonjo
 IMAGE_NAME:=$(REPO_NAME)/dcdget-herokuish
 	
 build:
