@@ -1,4 +1,4 @@
-REPO_NAME:=robinmonjo
+REPO_NAME:=applidget
 IMAGE_NAME:=$(REPO_NAME)/dcdget-herokuish
 	
 build:
